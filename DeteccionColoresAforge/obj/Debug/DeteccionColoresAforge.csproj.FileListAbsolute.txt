@@ -1,0 +1,14 @@
+C:\Users\Yonathan\Documents\Visual Studio 2017\Proyectos\DeteccionColoresAforge\DeteccionColoresAforge\bin\Debug\DeteccionColoresAforge.exe
+C:\Users\Yonathan\Documents\Visual Studio 2017\Proyectos\DeteccionColoresAforge\DeteccionColoresAforge\bin\Debug\DeteccionColoresAforge.pdb
+C:\Users\Yonathan\Documents\Visual Studio 2017\Proyectos\DeteccionColoresAforge\DeteccionColoresAforge\obj\Debug\DeteccionColoresAforge.csprojAssemblyReference.cache
+C:\Users\Yonathan\Documents\Visual Studio 2017\Proyectos\DeteccionColoresAforge\DeteccionColoresAforge\obj\Debug\DeteccionColoresAforge.Form1.resources
+C:\Users\Yonathan\Documents\Visual Studio 2017\Proyectos\DeteccionColoresAforge\DeteccionColoresAforge\obj\Debug\DeteccionColoresAforge.Properties.Resources.resources
+C:\Users\Yonathan\Documents\Visual Studio 2017\Proyectos\DeteccionColoresAforge\DeteccionColoresAforge\obj\Debug\DeteccionColoresAforge.csproj.GenerateResource.cache
+C:\Users\Yonathan\Documents\Visual Studio 2017\Proyectos\DeteccionColoresAforge\DeteccionColoresAforge\obj\Debug\DeteccionColoresAforge.csproj.CoreCompileInputs.cache
+C:\Users\Yonathan\Documents\Visual Studio 2017\Proyectos\DeteccionColoresAforge\DeteccionColoresAforge\obj\Debug\DeteccionColoresAforge.exe
+C:\Users\Yonathan\Documents\Visual Studio 2017\Proyectos\DeteccionColoresAforge\DeteccionColoresAforge\obj\Debug\DeteccionColoresAforge.pdb
+C:\Users\Yonathan\Documents\Visual Studio 2017\Proyectos\DeteccionColoresAforge\DeteccionColoresAforge\bin\Debug\AForge.dll
+C:\Users\Yonathan\Documents\Visual Studio 2017\Proyectos\DeteccionColoresAforge\DeteccionColoresAforge\bin\Debug\AForge.Imaging.dll
+C:\Users\Yonathan\Documents\Visual Studio 2017\Proyectos\DeteccionColoresAforge\DeteccionColoresAforge\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Yonathan\Documents\Visual Studio 2017\Proyectos\DeteccionColoresAforge\DeteccionColoresAforge\bin\Debug\AForge.Video.dll
+C:\Users\Yonathan\Documents\Visual Studio 2017\Proyectos\DeteccionColoresAforge\DeteccionColoresAforge\obj\Debug\DeteccionColoresAforge.csproj.CopyComplete
